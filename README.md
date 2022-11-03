@@ -1,5 +1,5 @@
 <h1 align="center">Mem Reduct</h1>
--------
+------- This version will include a function that turn on power saving mode on back end software to further reduce memory usage.
 
 <p align="center">
 	<img src="https://www.henrypp.org/images/memreduct.png" />
