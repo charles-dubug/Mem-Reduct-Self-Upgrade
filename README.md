@@ -17,7 +17,7 @@ higher operating systems, but some general features available only since Windows
 You can download either the installer or portable version. For correct working you are require administrator rights.
 
 ```
-To activate portable mode, create "memreduct.ini" in application folder, or move it from "%APPDATA%\Henry++\Mem Reduct".
+To activate portable mode, create "memreduct.ini" in application folder.
 ```
 
 
